@@ -1,0 +1,18 @@
+body {
+    background: black;
+    color: #00FF00;
+    font-family: 'VT323', monospace;
+    text-shadow: 0px 0px 6px #00FF00;
+}
+
+header, footer {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #00FF00;
+}
+
+nav a {
+    color: #00FF00;
+    margin: 0 10px;
+    text-decoration: none;
+}
